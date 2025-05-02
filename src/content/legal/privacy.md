@@ -1,28 +1,44 @@
 ---
-title: "Privacy Policy"
-date: "03/07/2024"
+title: 'Privacy Policy'
+date: '05/02/2025'
 ---
 
-This Privacy Policy governs the manner in which [Your Company Name] collects, uses, maintains, and discloses information collected from users (each, a "User") of the [Your Website URL] website ("Site"). This privacy policy applies to the Site and all products and services offered by [Your Company Name].
+## Privacy at blog.mykodelab.dev: Your Data Stays With You
 
-#### Personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+Welcome to blog.mykodelab.dev. This privacy policy is refreshingly simple: **we don't collect your data**.
 
-#### Non-personal identification information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+### What We Don't Collect
 
-#### Web browser cookies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+Unlike most websites you visit, we do not:
 
-#### How we use collected information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+- Track your browsing behavior
+- Use analytics tools to monitor how you interact with our content
+- Store cookies on your device for tracking purposes
+- Collect personal information like your name, email, or location
+- Maintain user accounts or databases
+- Use third-party services that track users across the web
 
-#### How we protect your information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+### Why No Data Collection?
 
-#### Sharing your personal information
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+We believe in a web where privacy comes first. By not collecting your data, we respect your autonomy and right to read and learn without being monitored. This approach simplifies our operations and aligns with our core value: respect for our readers.
 
-#### Changes to this privacy policy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet massa ut neque consequat congue. Sed id ipsum vitae sem imperdiet suscipit. Nulla facilisi. Morbi quis nibh at nunc pulvinar rhoncus. Proin porttitor dapibus dolor, id fermentum urna eleifend et. In feugiat pretium erat nec vestibulum.
+### Third-Party Content
 
+Our blog may occasionally include:
+
+- Embedded content from other sites (like videos or images)
+- Links to external websites
+
+When you interact with embedded content, those third parties may collect data about you according to their own policies, which we don't control. We encourage you to read the privacy policies of any external sites you visit through our links.
+w
+### Hosting Information
+
+Our website is hosted on servers that maintain standard server logs for security and performance purposes. These logs typically include IP addresses and accessed URLs but are automatically rotated and not used by us for analytical purposes.
+
+### Contact
+
+If you have questions about our privacy practices, you're welcome to contact us. Our commitment to privacy is fundamental to how we operate.
+
+### Updates to This Policy
+
+Should anything change regarding our privacy practices, we'll update this page accordingly.
