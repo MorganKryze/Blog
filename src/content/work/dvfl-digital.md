@@ -9,6 +9,6 @@ In my current role as Digital Transformation Manager at DeVinci Fablab, I orches
 
 - Spearhead multiple digital initiatives including website development, Discord community management with custom bots, standardized document templates, and a comprehensive documentation repository
 - Engineered a robust email management system that improved communication workflows and institutional knowledge retention
-- Oversee VPS infrastructure with advanced security protocols, ensuring 99.9% uptime while protecting sensitive association data
+- Oversee VPS infrastructure with advanced security protocols (SSL, reverse proxy, docker and soon Kubernetes) to ensure data integrity and system reliability
 - Deploy and maintain essential productivity services including secure file transfer systems, enterprise password management, and collaborative meeting platforms
 - Implement data backup strategies and disaster recovery protocols to safeguard the association's digital assets
