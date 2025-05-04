@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.github
+.vscode
+.DS_Store
+*.log
+README.md
+_*.jpg
+_*.png
+_*.svg

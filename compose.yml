@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  blog:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: mykodelab-blog
+    restart: unless-stopped
+    ports:
+      - "8080:80"
