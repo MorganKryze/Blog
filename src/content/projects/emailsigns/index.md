@@ -13,7 +13,7 @@ demoUrl: https://emails-signature-generator.vercel.app
 repoUrl: https://github.com/MorganKryze/Emails-Signature-Generator-Website
 ---
 
-[![Demo-page](https://raw.githubusercontent.com/MorganKryze/Emails-Signature-Generator-Website/main/assets/img/jpg/demo.jpeg)](https://emails-signature-generator.vercel.app)
+[![demo](/img/projects/emails.jpeg)](https://emails-signature-generator.vercel.app)
 
 I built this email signature generator to solve the annoying problem of creating consistent, good-looking email signatures without fighting with email clients' weird formatting issues. The tool lets you pick a template, fill in your info through a simple form, and grab your signature as HTML that actually works across different email platforms.
 

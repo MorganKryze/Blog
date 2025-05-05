@@ -14,7 +14,7 @@ repoUrl: https://github.com/MorganKryze/Fyre
 ---
 
 
-[![Find Your Real Estate](https://raw.githubusercontent.com/MorganKryze/Fyre/main/assets/img/demo.jpeg)](https://fyre.vercel.app/)
+[![Find Your Real Estate](/img/projects/fyre.jpeg)](https://fyre.vercel.app/)
 
 Find Your Real Estate (FYRE) is a comprehensive web platform built to transform how people discover and evaluate properties. By combining Django's robust backend capabilities with advanced data analytics, FYRE delivers personalized property recommendations and market insights that traditional real estate platforms simply can't match.
 

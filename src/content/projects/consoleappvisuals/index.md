@@ -12,7 +12,7 @@ demoUrl: https://morgankryze.github.io/ConsoleAppVisuals/
 repoUrl: https://github.com/MorganKryze/ConsoleAppVisuals
 ---
 
-[![Demo](https://raw.githubusercontent.com/MorganKryze/ConsoleAppVisuals/main/docs/assets/vid/gif/presentation.gif)](https://morgankryze.github.io/ConsoleAppVisuals/)
+[![Demo](/img/projects/consoleappvisuals.gif)](https://morgankryze.github.io/ConsoleAppVisuals/)
 
 ConsoleAppVisuals is a powerful C# library that transforms ordinary console applications into visually stunning, interactive experiences—without leaving the comfort of the terminal. By providing a comprehensive suite of UI elements like menus, tables, loading bars, and input fields, it eliminates the traditional compromise between console simplicity and graphical richness.
 
