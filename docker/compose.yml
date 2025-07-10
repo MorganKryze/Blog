@@ -1,0 +1,17 @@
+name: blog
+services:
+  blog:
+    image: ghcr.io/morgankryze/blog:latest
+    container_name: blog
+    restart: unless-stopped
+    expose:
+      - 80
+    security_opt:
+      - no-new-privileges:true
+    labels:
+      - 'com.centurylinklabs.watchtower.enable=true'
+    networks:
+      - pangolin
+networks:
+  pangolin:
+    external: true
